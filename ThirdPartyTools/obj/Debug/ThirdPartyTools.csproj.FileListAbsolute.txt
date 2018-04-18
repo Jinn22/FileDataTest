@@ -1,0 +1,5 @@
+C:\Users\thinkpad\Desktop\DeveloperTestExercise-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll
+C:\Users\thinkpad\Desktop\DeveloperTestExercise-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.pdb
+C:\Users\thinkpad\Desktop\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.csprojResolveAssemblyReference.cache
+C:\Users\thinkpad\Desktop\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.dll
+C:\Users\thinkpad\Desktop\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.pdb

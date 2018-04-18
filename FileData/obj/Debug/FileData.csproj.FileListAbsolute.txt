@@ -1,0 +1,16 @@
+C:\Users\thinkpad\Desktop\DeveloperTestExercise-master\FileData\bin\Debug\FileData.exe.config
+C:\Users\thinkpad\Desktop\DeveloperTestExercise-master\FileData\bin\Debug\FileData.exe
+C:\Users\thinkpad\Desktop\DeveloperTestExercise-master\FileData\bin\Debug\FileData.pdb
+C:\Users\thinkpad\Desktop\DeveloperTestExercise-master\FileData\bin\Debug\ThirdPartyTools.dll
+C:\Users\thinkpad\Desktop\DeveloperTestExercise-master\FileData\bin\Debug\ThirdPartyTools.pdb
+C:\Users\thinkpad\Desktop\DeveloperTestExercise-master\FileData\obj\Debug\FileData.csprojResolveAssemblyReference.cache
+C:\Users\thinkpad\Desktop\DeveloperTestExercise-master\FileData\obj\Debug\FileData.exe
+C:\Users\thinkpad\Desktop\DeveloperTestExercise-master\FileData\obj\Debug\FileData.pdb
+C:\Users\thinkpad\Desktop\FileDataTest\FileData\bin\Debug\FileData.exe.config
+C:\Users\thinkpad\Desktop\FileDataTest\FileData\obj\Debug\FileData.exe
+C:\Users\thinkpad\Desktop\FileDataTest\FileData\obj\Debug\FileData.pdb
+C:\Users\thinkpad\Desktop\FileDataTest\FileData\bin\Debug\FileData.exe
+C:\Users\thinkpad\Desktop\FileDataTest\FileData\bin\Debug\FileData.pdb
+C:\Users\thinkpad\Desktop\FileDataTest\FileData\bin\Debug\ThirdPartyTools.dll
+C:\Users\thinkpad\Desktop\FileDataTest\FileData\bin\Debug\ThirdPartyTools.pdb
+C:\Users\thinkpad\Desktop\FileDataTest\FileData\obj\Debug\FileData.csprojResolveAssemblyReference.cache
